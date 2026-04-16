@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eissa Ba-Awaidhan
 
-<!--
-**Eissa2123/Eissa2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on business systems, dashboards, and automation-friendly web interfaces.
 
-Here are some ideas to get you started:
+## What I Do
+- Build structured and user-focused web interfaces
+- Create dashboards and reporting experiences
+- Design internal tools and admin panels
+- Support business workflows with practical automation solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Areas
+- Frontend Development
+- HTML / CSS / JavaScript
+- Tailwind CSS
+- Dashboards & Reporting
+- Business Systems UI
+- Process Automation
+
+## Additional Exposure
+- FastAPI project structure
+- Backend integration 
+- Database-connected interfaces
+
+## Location
+Jeddah, Saudi Arabia
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/
