@@ -37,8 +37,8 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ## 📌 Featured Work
-- Accounting & Administrative System Case Study
-- Bilingual Corporate Website & Admin Dashboard Case Study
+- [Accounting & Administrative System Case Study](https://github.com/Eissa2123/REPO_NAME_1)
+- [Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com/Eissa2123/REPO_NAME_2)
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/)
