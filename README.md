@@ -4,12 +4,27 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 
 📍 Based in Jeddah, Saudi Arabia
 
-## 🚀 Focus
-- Business systems UI
-- Dashboards and reporting interfaces
-- Admin panels and internal tools
-- Structured frontend development
-- Automation-friendly workflows
+## 🚀 What I Do
+- Build structured and user-focused web interfaces
+- Create dashboards and reporting experiences
+- Design internal tools and admin panels
+- Support business workflows with practical automation solutions
+
+## 🎯 Core Areas
+- Frontend Development
+- Flutter / Dart
+- HTML / CSS / JavaScript
+- Tailwind CSS
+- Dashboards & Reporting
+- Business Systems UI
+- Process Automation
+
+## 🔌 Additional Exposure
+- FastAPI project structure
+- Backend integration
+- Database-connected interfaces
+- Admin-side workflows
+- Content management dashboards
 
 ## 🛠 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -32,5 +47,4 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eissa2123&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eissa2123&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
