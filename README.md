@@ -19,10 +19,6 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,fastapi,sqlite)](https://skillicons.dev)
-
 ## 📌 Featured Work
 - Accounting & Administrative System Case Study
 - Bilingual Corporate Website & Admin Dashboard Case Study
@@ -33,6 +29,6 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eissa2123&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eissa2123&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
