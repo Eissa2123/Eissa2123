@@ -2,13 +2,17 @@
 
 Frontend-focused developer building business systems, dashboards, admin panels, and automation-friendly web interfaces.
 
-📍 Based in Jeddah, Saudi Arabia
+🌐 **[Visit My Portfolio](https://eissa-portfolio.vercel.app/)** | 📍 Based in Jeddah, Saudi Arabia
+
+---
 
 ## 🚀 What I Do
 - Build structured and user-focused web interfaces
 - Create dashboards and reporting experiences
 - Design internal tools and admin panels
 - Support business workflows with practical automation solutions
+
+---
 
 ## 🎯 Core Areas
 - Frontend Development
@@ -26,87 +30,31 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 - Admin-side workflows
 - Content management dashboards
 
+---
+
 ## 🛠 Tech Stack
+
+### 💻 Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Automation
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+---
+
 ## 📌 Featured Work
-- [Accounting & Administrative System Case Study](https://github.com/Eissa2123/REPO_NAME_1)
-- [Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com/Eissa2123/REPO_NAME_2)
+- * **[Accounting & Administrative System Case Study](https://github.com/Eissa2123/REPO_NAME_1)**  
+  *Brief description of the dashboard, optimization results, or core feature.*
+* **[Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com/Eissa2123/REPO_NAME_2)**  
+  *Brief description of the UI features, localization approach, or state management.*
+
+---
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Eissa2123&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" 
-    height="165" 
-  />
-</p>
-
-
-
-
-
-
-
-# Hi, I'm Eissa Ba-Awaidhan 👋
-
-Frontend-focused developer building business systems, dashboards, admin panels, and automation-friendly web interfaces.
-
-🌐 **[Visit My Portfolio](https://eissa-portfolio.vercel.app/)** | 📍 Based in Jeddah, Saudi Arabia
-
----
-
-## 🚀 What I Do
-- **Frontend & Dashboards:** Build structured, user-focused web interfaces and comprehensive reporting experiences.
-- **Internal Tools:** Design admin panels and business workflows tailored for practical automation solutions.
-- **Full-Stack Exposure:** Support projects with FastAPI structure, database integrations (SQLite), and backend connectivity.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend & Mobile
-![Flutter](https://shields.io)
-![Dart](https://shields.io)
-![JavaScript](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![HTML](https://shields.io)
-![CSS](https://shields.io)
-
-### ⚙️ Backend & Automation
-![FastAPI](https://shields.io)
-![SQLite](https://shields.io)
-
----
-
-## 📌 Featured Work
-* **[Accounting & Administrative System Case Study](https://github.com)**  
-  *Brief description of the dashboard, optimization results, or core feature.*
-* **[Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com)**  
-  *Brief description of the UI features, localization approach, or state management.*
-
-*(💡 Tip: Add an image link or GIF here of your dashboard UI to catch the eye instantly!)*
-
----
-
-## 📊 GitHub Analytics (Including Private Contributions)
-
-<p align="center">
-  <img src="vercel.app" height="165" />
-  <img src="vercel.app" height="165" />
-</p>
-
----
-
-## 🌐 Connect With Me
-- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/))
