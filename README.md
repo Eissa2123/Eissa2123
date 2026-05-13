@@ -51,3 +51,62 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
     height="165" 
   />
 </p>
+
+
+
+
+
+
+
+# Hi, I'm Eissa Ba-Awaidhan 👋
+
+Frontend-focused developer building business systems, dashboards, admin panels, and automation-friendly web interfaces.
+
+🌐 **[Visit My Portfolio](https://eissa-portfolio.vercel.app/)** | 📍 Based in Jeddah, Saudi Arabia
+
+---
+
+## 🚀 What I Do
+- **Frontend & Dashboards:** Build structured, user-focused web interfaces and comprehensive reporting experiences.
+- **Internal Tools:** Design admin panels and business workflows tailored for practical automation solutions.
+- **Full-Stack Exposure:** Support projects with FastAPI structure, database integrations (SQLite), and backend connectivity.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend & Mobile
+![Flutter](https://shields.io)
+![Dart](https://shields.io)
+![JavaScript](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+
+### ⚙️ Backend & Automation
+![FastAPI](https://shields.io)
+![SQLite](https://shields.io)
+
+---
+
+## 📌 Featured Work
+* **[Accounting & Administrative System Case Study](https://github.com)**  
+  *Brief description of the dashboard, optimization results, or core feature.*
+* **[Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com)**  
+  *Brief description of the UI features, localization approach, or state management.*
+
+*(💡 Tip: Add an image link or GIF here of your dashboard UI to catch the eye instantly!)*
+
+---
+
+## 📊 GitHub Analytics (Including Private Contributions)
+
+<p align="center">
+  <img src="vercel.app" height="165" />
+  <img src="vercel.app" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/))
