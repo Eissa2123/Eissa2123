@@ -49,7 +49,7 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 ---
 
 ## 📌 Featured Work
-- * **[Accounting & Administrative System Case Study](https://github.com/Eissa2123/REPO_NAME_1)**  
+* **[Accounting & Administrative System Case Study](https://github.com/Eissa2123/REPO_NAME_1)**  
   *Brief description of the dashboard, optimization results, or core feature.*
 * **[Bilingual Corporate Website & Admin Dashboard Case Study](https://github.com/Eissa2123/REPO_NAME_2)**  
   *Brief description of the UI features, localization approach, or state management.*
