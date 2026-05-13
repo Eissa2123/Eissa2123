@@ -46,5 +46,8 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eissa2123&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Eissa2123&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" 
+    height="165" 
+  />
 </p>
