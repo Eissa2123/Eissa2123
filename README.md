@@ -60,8 +60,8 @@ Frontend-focused developer building business systems, dashboards, admin panels, 
 - [LinkedIn](https://www.linkedin.com/in/eissa-ba-awaidhan-53468a1a3/)
 
 
-![](https://github-readme-stats.shion.dev/api?username=Eissa2123&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
+## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Eissa2123&theme=default&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Eissa2123&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
